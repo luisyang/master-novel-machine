@@ -1,0 +1,4 @@
+master-novel-machine
+====================
+
+writing
